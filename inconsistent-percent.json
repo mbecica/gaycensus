@@ -1,0 +1,886 @@
+{
+  "Alabama":{
+    "Same-sex Couples":{
+      "All forms":"41.5",
+      "Mail":"31.7",
+      "NRFU":"60.2"
+    },
+    "Same-sex Spouses":{
+      "All forms":"71.0",
+      "Mail":"69.9",
+      "NRFU":"72.6"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"9.3",
+      "Mail":"4.6",
+      "NRFU":"27.5"
+    }
+  },
+  "Alaska":{
+    "Same-sex Couples":{
+      "All forms":"33.7",
+      "Mail":"20.1",
+      "NRFU":"50.2"
+    },
+    "Same-sex Spouses":{
+      "All forms":"65.0",
+      "Mail":"58.1",
+      "NRFU":"69.6"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"10.1",
+      "Mail":"4.1",
+      "NRFU":"22.5"
+    }
+  },
+  "Arizona":{
+    "Same-sex Couples":{
+      "All forms":"24.5",
+      "Mail":"15.9",
+      "NRFU":"48.0"
+    },
+    "Same-sex Spouses":{
+      "All forms":"65.4",
+      "Mail":"62.5",
+      "NRFU":"67.5"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"5.9",
+      "Mail":"3.0",
+      "NRFU":"21.3"
+    }
+  },
+  "Arkansas":{
+    "Same-sex Couples":{
+      "All forms":"39.7",
+      "Mail":"27.8",
+      "NRFU":"58.6"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.9",
+      "Mail":"67.4",
+      "NRFU":"71.9"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"10.3",
+      "Mail":"4.9",
+      "NRFU":"28.3"
+    }
+  },
+  "California":{
+    "Same-sex Couples":{
+      "All forms":"21.8",
+      "Mail":"14.5",
+      "NRFU":"43.0"
+    },
+    "Same-sex Spouses":{
+      "All forms":"45.0",
+      "Mail":"35.0",
+      "NRFU":"61.3"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"5.7",
+      "Mail":"3.3",
+      "NRFU":"16.9"
+    }
+  },
+  "Colorado":{
+    "Same-sex Couples":{
+      "All forms":"22.9",
+      "Mail":"16.0",
+      "NRFU":"46.5"
+    },
+    "Same-sex Spouses":{
+      "All forms":"66.2",
+      "Mail":"63.8",
+      "NRFU":"68.6"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"4.6",
+      "Mail":"2.6",
+      "NRFU":"17.2"
+    }
+  },
+  "Connecticut":{
+    "Same-sex Couples":{
+      "All forms":"26.9",
+      "Mail":"20.1",
+      "NRFU":"47.1"
+    },
+    "Same-sex Spouses":{
+      "All forms":"48.1",
+      "Mail":"40.2",
+      "NRFU":"64.2"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.0",
+      "Mail":"4.0",
+      "NRFU":"19.9"
+    }
+  },
+  "Delaware":{
+    "Same-sex Couples":{
+      "All forms":"21.1",
+      "Mail":"14.4",
+      "NRFU":"43.6"
+    },
+    "Same-sex Spouses":{
+      "All forms":"60.7",
+      "Mail":"57.0",
+      "NRFU":"65.8"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"5.0",
+      "Mail":"2.6",
+      "NRFU":"18.2"
+    }
+  },
+  "District of  Columbia":{
+    "Same-sex Couples":{
+      "All forms":"6.3",
+      "Mail":"4.4",
+      "NRFU":"19.4"
+    },
+    "Same-sex Spouses":{
+      "All forms":"24.4",
+      "Mail":"18.5",
+      "NRFU":"46.8"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"2.0",
+      "Mail":"1.5",
+      "NRFU":"6.0"
+    }
+  },
+  "Florida":{
+    "Same-sex Couples":{
+      "All forms":"26.1",
+      "Mail":"19.1",
+      "NRFU":"47.3"
+    },
+    "Same-sex Spouses":{
+      "All forms":"68.0",
+      "Mail":"67.5",
+      "NRFU":"69.0"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.0",
+      "Mail":"3.4",
+      "NRFU":"19.8"
+    }
+  },
+  "Georgia":{
+    "Same-sex Couples":{
+      "All forms":"28.6",
+      "Mail":"19.3",
+      "NRFU":"51.1"
+    },
+    "Same-sex Spouses":{
+      "All forms":"66.8",
+      "Mail":"64.1",
+      "NRFU":"69.5"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.2",
+      "Mail":"3.4",
+      "NRFU":"19.8"
+    }
+  },
+  "Hawaii":{
+    "Same-sex Couples":{
+      "All forms":"23.8",
+      "Mail":"17.7",
+      "NRFU":"39.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"60.3",
+      "Mail":"59.9",
+      "NRFU":"61.0"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"4.6",
+      "Mail":"2.3",
+      "NRFU":"14.1"
+    }
+  },
+  "Idaho":{
+    "Same-sex Couples":{
+      "All forms":"37.1",
+      "Mail":"25.8",
+      "NRFU":"61.9"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.9",
+      "Mail":"64.9",
+      "NRFU":"74.6"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"9.6",
+      "Mail":"5.5",
+      "NRFU":"29.0"
+    }
+  },
+  "Illinois":{
+    "Same-sex Couples":{
+      "All forms":"29.0",
+      "Mail":"21.3",
+      "NRFU":"51.2"
+    },
+    "Same-sex Spouses":{
+      "All forms":"68.9",
+      "Mail":"67.6",
+      "NRFU":"70.6"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.9",
+      "Mail":"3.8",
+      "NRFU":"22.8"
+    }
+  },
+  "Indiana":{
+    "Same-sex Couples":{
+      "All forms":"32.6",
+      "Mail":"25.3",
+      "NRFU":"52.2"
+    },
+    "Same-sex Spouses":{
+      "All forms":"74.0",
+      "Mail":"75.3",
+      "NRFU":"72.6"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.8",
+      "Mail":"4.4",
+      "NRFU":"23.5"
+    }
+  },
+  "Iowa":{
+    "Same-sex Couples":{
+      "All forms":"37.4",
+      "Mail":"29.1",
+      "NRFU":"57.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"60.5",
+      "Mail":"54.0",
+      "NRFU":"71.2"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"11.3",
+      "Mail":"5.4",
+      "NRFU":"33.0"
+    }
+  },
+  "Kansas":{
+    "Same-sex Couples":{
+      "All forms":"35.1",
+      "Mail":"25.6",
+      "NRFU":"55.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.5",
+      "Mail":"68.0",
+      "NRFU":"70.8"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.8",
+      "Mail":"3.5",
+      "NRFU":"26.6"
+    }
+  },
+  "Kentucky":{
+    "Same-sex Couples":{
+      "All forms":"37.8",
+      "Mail":"26.4",
+      "NRFU":"60.3"
+    },
+    "Same-sex Spouses":{
+      "All forms":"74.0",
+      "Mail":"71.4",
+      "NRFU":"76.7"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"9.2",
+      "Mail":"4.9",
+      "NRFU":"26.6"
+    }
+  },
+  "Louisiana":{
+    "Same-sex Couples":{
+      "All forms":"33.5",
+      "Mail":"26.2",
+      "NRFU":"50.7"
+    },
+    "Same-sex Spouses":{
+      "All forms":"66.5",
+      "Mail":"66.3",
+      "NRFU":"67.4"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"9.2",
+      "Mail":"4.7",
+      "NRFU":"24.9"
+    }
+  },
+  "Maine":{
+    "Same-sex Couples":{
+      "All forms":"26.8",
+      "Mail":"17.7",
+      "NRFU":"49.7"
+    },
+    "Same-sex Spouses":{
+      "All forms":"74.2",
+      "Mail":"68.8",
+      "NRFU":"80.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.2",
+      "Mail":"3.9",
+      "NRFU":"20.6"
+    }
+  },
+  "Maryland":{
+    "Same-sex Couples":{
+      "All forms":"26.2",
+      "Mail":"19.2",
+      "NRFU":"46.1"
+    },
+    "Same-sex Spouses":{
+      "All forms":"61.9",
+      "Mail":"59.4",
+      "NRFU":"65.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.3",
+      "Mail":"3.5",
+      "NRFU":"20.1"
+    }
+  },
+  "Mass":{
+    "Same-sex Couples":{
+      "All forms":"22.2",
+      "Mail":"15.4",
+      "NRFU":"41.4"
+    },
+    "Same-sex Spouses":{
+      "All forms":"35.5",
+      "Mail":"26.4",
+      "NRFU":"56.2"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.4",
+      "Mail":"4.0",
+      "NRFU":"19.7"
+    }
+  },
+  "Michigan":{
+    "Same-sex Couples":{
+      "All forms":"33.0",
+      "Mail":"25.7",
+      "NRFU":"55.1"
+    },
+    "Same-sex Spouses":{
+      "All forms":"73.6",
+      "Mail":"73.6",
+      "NRFU":"74.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.8",
+      "Mail":"4.3",
+      "NRFU":"25.8"
+    }
+  },
+  "Minnesota":{
+    "Same-sex Couples":{
+      "All forms":"25.6",
+      "Mail":"18.1",
+      "NRFU":"53.9"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.2",
+      "Mail":"65.2",
+      "NRFU":"75.5"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"5.5",
+      "Mail":"3.0",
+      "NRFU":"23.5"
+    }
+  },
+  "Mississippi":{
+    "Same-sex Couples":{
+      "All forms":"44.6",
+      "Mail":"35.2",
+      "NRFU":"58.9"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.6",
+      "Mail":"68.4",
+      "NRFU":"71.4"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"14.1",
+      "Mail":"7.1",
+      "NRFU":"31.7"
+    }
+  },
+  "Missouri":{
+    "Same-sex Couples":{
+      "All forms":"30.7",
+      "Mail":"21.6",
+      "NRFU":"54.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"71.3",
+      "Mail":"68.5",
+      "NRFU":"74.5"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.6",
+      "Mail":"4.0",
+      "NRFU":"24.9"
+    }
+  },
+  "Montana":{
+    "Same-sex Couples":{
+      "All forms":"41.3",
+      "Mail":"33.1",
+      "NRFU":"58.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"73.9",
+      "Mail":"74.5",
+      "NRFU":"74.3"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"11.5",
+      "Mail":"5.7",
+      "NRFU":"30.2"
+    }
+  },
+  "Nebraska":{
+    "Same-sex Couples":{
+      "All forms":"37.2",
+      "Mail":"29.7",
+      "NRFU":"55.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"70.0",
+      "Mail":"70.2",
+      "NRFU":"69.9"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"9.8",
+      "Mail":"5.4",
+      "NRFU":"29.1"
+    }
+  },
+  "Nevada":{
+    "Same-sex Couples":{
+      "All forms":"23.4",
+      "Mail":"16.4",
+      "NRFU":"42.7"
+    },
+    "Same-sex Spouses":{
+      "All forms":"58.6",
+      "Mail":"56.8",
+      "NRFU":"60.3"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.5",
+      "Mail":"3.6",
+      "NRFU":"19.9"
+    }
+  },
+  "New Hampshire":{
+    "Same-sex Couples":{
+      "All forms":"29.7",
+      "Mail":"19.6",
+      "NRFU":"51.5"
+    },
+    "Same-sex Spouses":{
+      "All forms":"53.7",
+      "Mail":"42.7",
+      "NRFU":"68.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"8.1",
+      "Mail":"3.9",
+      "NRFU":"23.0"
+    }
+  },
+  "New Jersey":{
+    "Same-sex Couples":{
+      "All forms":"30.0",
+      "Mail":"22.2",
+      "NRFU":"48.1"
+    },
+    "Same-sex Spouses":{
+      "All forms":"58.3",
+      "Mail":"53.8",
+      "NRFU":"63.9"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.6",
+      "Mail":"4.1",
+      "NRFU":"21.4"
+    }
+  },
+  "New Mexico":{
+    "Same-sex Couples":{
+      "All forms":"25.2",
+      "Mail":"14.6",
+      "NRFU":"46.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"64.8",
+      "Mail":"57.6",
+      "NRFU":"70.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.1",
+      "Mail":"3.0",
+      "NRFU":"21.3"
+    }
+  },
+  "New York":{
+    "Same-sex Couples":{
+      "All forms":"25.1",
+      "Mail":"16.7",
+      "NRFU":"44.7"
+    },
+    "Same-sex Spouses":{
+      "All forms":"57.8",
+      "Mail":"52.7",
+      "NRFU":"63.3"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.1",
+      "Mail":"3.3",
+      "NRFU":"18.0"
+    }
+  },
+  "North Carolina":{
+    "Same-sex Couples":{
+      "All forms":"32.8",
+      "Mail":"22.9",
+      "NRFU":"55.5"
+    },
+    "Same-sex Spouses":{
+      "All forms":"70.7",
+      "Mail":"68.7",
+      "NRFU":"72.9"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.2",
+      "Mail":"3.7",
+      "NRFU":"23.3"
+    }
+  },
+  "North Dakota":{
+    "Same-sex Couples":{
+      "All forms":"49.8",
+      "Mail":"39.9",
+      "NRFU":"63.6"
+    },
+    "Same-sex Spouses":{
+      "All forms":"76.3",
+      "Mail":"76.8",
+      "NRFU":"74.2"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"16.9",
+      "Mail":"7.8",
+      "NRFU":"40.6"
+    }
+  },
+  "Ohio":{
+    "Same-sex Couples":{
+      "All forms":"31.2",
+      "Mail":"22.2",
+      "NRFU":"53.5"
+    },
+    "Same-sex Spouses":{
+      "All forms":"73.7",
+      "Mail":"73.2",
+      "NRFU":"74.7"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.9",
+      "Mail":"3.9",
+      "NRFU":"24.9"
+    }
+  },
+  "Oklahoma":{
+    "Same-sex Couples":{
+      "All forms":"37.4",
+      "Mail":"26.1",
+      "NRFU":"56.9"
+    },
+    "Same-sex Spouses":{
+      "All forms":"70.5",
+      "Mail":"69.1",
+      "NRFU":"71.6"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"9.0",
+      "Mail":"4.5",
+      "NRFU":"25.5"
+    }
+  },
+  "Oregon":{
+    "Same-sex Couples":{
+      "All forms":"21.4",
+      "Mail":"13.6",
+      "NRFU":"44.1"
+    },
+    "Same-sex Spouses":{
+      "All forms":"56.8",
+      "Mail":"47.6",
+      "NRFU":"68.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"5.6",
+      "Mail":"3.4",
+      "NRFU":"16.5"
+    }
+  },
+  "Pennsylvania":{
+    "Same-sex Couples":{
+      "All forms":"33.5",
+      "Mail":"24.9",
+      "NRFU":"55.9"
+    },
+    "Same-sex Spouses":{
+      "All forms":"74.9",
+      "Mail":"73.2",
+      "NRFU":"77.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"7.9",
+      "Mail":"3.9",
+      "NRFU":"25.4"
+    }
+  },
+  "Rhode Island":{
+    "Same-sex Couples":{
+      "All forms":"24.0",
+      "Mail":"17.0",
+      "NRFU":"43.7"
+    },
+    "Same-sex Spouses":{
+      "All forms":"54.9",
+      "Mail":"48.1",
+      "NRFU":"65.9"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.7",
+      "Mail":"3.3",
+      "NRFU":"20.5"
+    }
+  },
+  "South Carolina":{
+    "Same-sex Couples":{
+      "All forms":"37.4",
+      "Mail":"29.4",
+      "NRFU":"56.5"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.9",
+      "Mail":"68.6",
+      "NRFU":"71.9"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"9.9",
+      "Mail":"5.2",
+      "NRFU":"28.4"
+    }
+  },
+  "South Dakota":{
+    "Same-sex Couples":{
+      "All forms":"48.6",
+      "Mail":"38.8",
+      "NRFU":"63.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"76.3",
+      "Mail":"76.0",
+      "NRFU":"77.0"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"17.2",
+      "Mail":"8.6",
+      "NRFU":"36.9"
+    }
+  },
+  "Tennessee":{
+    "Same-sex Couples":{
+      "All forms":"33.2",
+      "Mail":"24.4",
+      "NRFU":"54.6"
+    },
+    "Same-sex Spouses":{
+      "All forms":"70.2",
+      "Mail":"68.9",
+      "NRFU":"72.3"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"8.4",
+      "Mail":"4.3",
+      "NRFU":"26.0"
+    }
+  },
+  "Texas":{
+    "Same-sex Couples":{
+      "All forms":"31.2",
+      "Mail":"21.5",
+      "NRFU":"53.2"
+    },
+    "Same-sex Spouses":{
+      "All forms":"68.4",
+      "Mail":"65.5",
+      "NRFU":"71.2"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.9",
+      "Mail":"3.9",
+      "NRFU":"20.5"
+    }
+  },
+  "United States":{
+    "Same-sex Couples":{
+      "All forms":"28.3",
+      "Mail":"19.8",
+      "NRFU":"50.2"
+    },
+    "Same-sex Spouses":{
+      "All forms":"62.3",
+      "Mail":"56.9",
+      "NRFU":"68.9"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.9",
+      "Mail":"3.7",
+      "NRFU":"21.5"
+    }
+  },
+  "Utah":{
+    "Same-sex Couples":{
+      "All forms":"32.8",
+      "Mail":"24.4",
+      "NRFU":"53.2"
+    },
+    "Same-sex Spouses":{
+      "All forms":"68.1",
+      "Mail":"65.2",
+      "NRFU":"71.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"5.5",
+      "Mail":"2.9",
+      "NRFU":"18.9"
+    }
+  },
+  "Vermont":{
+    "Same-sex Couples":{
+      "All forms":"23.4",
+      "Mail":"14.3",
+      "NRFU":"43.3"
+    },
+    "Same-sex Spouses":{
+      "All forms":"41.3",
+      "Mail":"29.0",
+      "NRFU":"62.0"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"8.1",
+      "Mail":"3.2",
+      "NRFU":"22.1"
+    }
+  },
+  "Virginia":{
+    "Same-sex Couples":{
+      "All forms":"30.7",
+      "Mail":"22.3",
+      "NRFU":"52.9"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.0",
+      "Mail":"68.2",
+      "NRFU":"70.5"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"6.3",
+      "Mail":"3.4",
+      "NRFU":"21.6"
+    }
+  },
+  "Washington":{
+    "Same-sex Couples":{
+      "All forms":"21.7",
+      "Mail":"13.9",
+      "NRFU":"45.5"
+    },
+    "Same-sex Spouses":{
+      "All forms":"58.8",
+      "Mail":"51.3",
+      "NRFU":"68.4"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"5.3",
+      "Mail":"2.8",
+      "NRFU":"18.0"
+    }
+  },
+  "West Virginia":{
+    "Same-sex Couples":{
+      "All forms":"45.6",
+      "Mail":"31.6",
+      "NRFU":"62.9"
+    },
+    "Same-sex Spouses":{
+      "All forms":"74.8",
+      "Mail":"72.1",
+      "NRFU":"76.4"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"14.7",
+      "Mail":"6.1",
+      "NRFU":"34.7"
+    }
+  },
+  "Wisconsin":{
+    "Same-sex Couples":{
+      "All forms":"32.7",
+      "Mail":"22.0",
+      "NRFU":"59.4"
+    },
+    "Same-sex Spouses":{
+      "All forms":"75.8",
+      "Mail":"73.5",
+      "NRFU":"78.5"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"8.2",
+      "Mail":"3.9",
+      "NRFU":"28.9"
+    }
+  },
+  "Wyoming":{
+    "Same-sex Couples":{
+      "All forms":"42.7",
+      "Mail":"33.7",
+      "NRFU":"57.8"
+    },
+    "Same-sex Spouses":{
+      "All forms":"69.9",
+      "Mail":"68.7",
+      "NRFU":"70.1"
+    },
+    "Same-sex Unmarried":{
+      "All forms":"13.6",
+      "Mail":"7.7",
+      "NRFU":"30.5"
+    }
+  }
+};

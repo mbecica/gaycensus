@@ -1,0 +1,3384 @@
+{
+  "Alabama":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.300",
+        "percent std err":"0.039",
+        "total":"5,452",
+        "total std err":"709"
+      },
+      "Census 2000":{
+        "percent":"0.467",
+        "total":"8,109"
+      },
+      "Census 2010":{
+        "percent":"0.598",
+        "total":"11,259"
+      },
+      "Percent Change":"38.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.098",
+        "percent std err":"0.025",
+        "total":"1,778",
+        "total std err":"449"
+      },
+      "Census 2000":{
+        "percent":"0.289",
+        "total":"5,016"
+      },
+      "Census 2010":{
+        "percent":"0.312",
+        "total":"5,879"
+      },
+      "Percent Change":"14.7"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.202",
+        "percent std err":"0.033",
+        "total":"3,674",
+        "total std err":"595"
+      },
+      "Census 2000":{
+        "percent":"0.178",
+        "total":"3,093"
+      },
+      "Census 2010":{
+        "percent":"0.286",
+        "total":"5,380"
+      },
+      "Percent Change":"42.5"
+    }
+  },
+  "Alaska":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.295",
+        "percent std err":"0.086",
+        "total":"752",
+        "total std err":"219"
+      },
+      "Census 2000":{
+        "percent":"0.532",
+        "total":"1,180"
+      },
+      "Census 2010":{
+        "percent":"0.717",
+        "total":"1,851"
+      },
+      "Percent Change":"56.9"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.140",
+        "percent std err":"0.061",
+        "total":"356",
+        "total std err":"156"
+      },
+      "Census 2000":{
+        "percent":"0.244",
+        "total":"540"
+      },
+      "Census 2010":{
+        "percent":"0.308",
+        "total":"794"
+      },
+      "Percent Change":"32.0"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.156",
+        "percent std err":"0.066",
+        "total":"396",
+        "total std err":"168"
+      },
+      "Census 2000":{
+        "percent":"0.289",
+        "total":"640"
+      },
+      "Census 2010":{
+        "percent":"0.410",
+        "total":"1,057"
+      },
+      "Percent Change":"39.5"
+    }
+  },
+  "Arizona":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.649",
+        "percent std err":"0.053",
+        "total":"15,143",
+        "total std err":"1,241"
+      },
+      "Census 2000":{
+        "percent":"0.649",
+        "total":"12,332"
+      },
+      "Census 2010":{
+        "percent":"0.880",
+        "total":"20,948"
+      },
+      "Percent Change":"69.9"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.113",
+        "percent std err":"0.021",
+        "total":"2,631",
+        "total std err":"490"
+      },
+      "Census 2000":{
+        "percent":"0.257",
+        "total":"4,881"
+      },
+      "Census 2010":{
+        "percent":"0.275",
+        "total":"6,541"
+      },
+      "Percent Change":"25.4"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.536",
+        "percent std err":"0.049",
+        "total":"12,512",
+        "total std err":"1,152"
+      },
+      "Census 2000":{
+        "percent":"0.392",
+        "total":"7,451"
+      },
+      "Census 2010":{
+        "percent":"0.605",
+        "total":"14,407"
+      },
+      "Percent Change":"48.3"
+    }
+  },
+  "Arkansas":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.360",
+        "percent std err":"0.050",
+        "total":"4,015",
+        "total std err":"564"
+      },
+      "Census 2000":{
+        "percent":"0.424",
+        "total":"4,423"
+      },
+      "Census 2010":{
+        "percent":"0.611",
+        "total":"7,004"
+      },
+      "Percent Change":"58.4"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.087",
+        "percent std err":"0.020",
+        "total":"974",
+        "total std err":"229"
+      },
+      "Census 2000":{
+        "percent":"0.261",
+        "total":"2,726"
+      },
+      "Census 2010":{
+        "percent":"0.301",
+        "total":"3,454"
+      },
+      "Percent Change":"21.1"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.273",
+        "percent std err":"0.046",
+        "total":"3,041",
+        "total std err":"517"
+      },
+      "Census 2000":{
+        "percent":"0.163",
+        "total":"1,697"
+      },
+      "Census 2010":{
+        "percent":"0.309",
+        "total":"3,550"
+      },
+      "Percent Change":"52.2"
+    }
+  },
+  "California":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.726",
+        "percent std err":"0.022",
+        "total":"90,023",
+        "total std err":"2,769"
+      },
+      "Census 2000":{
+        "percent":"0.801",
+        "total":"92,138"
+      },
+      "Census 2010":{
+        "percent":"0.998",
+        "total":"125,516"
+      },
+      "Percent Change":"36.2"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.233",
+        "percent std err":"0.012",
+        "total":"28,894",
+        "total std err":"1,522"
+      },
+      "Census 2000":{
+        "percent":"0.269",
+        "total":"30,972"
+      },
+      "Census 2010":{
+        "percent":"0.409",
+        "total":"51,456"
+      },
+      "Percent Change":"39.8"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.493",
+        "percent std err":"0.020",
+        "total":"61,129",
+        "total std err":"2,425"
+      },
+      "Census 2000":{
+        "percent":"0.532",
+        "total":"61,166"
+      },
+      "Census 2010":{
+        "percent":"0.589",
+        "total":"74,060"
+      },
+      "Percent Change":"17.4"
+    }
+  },
+  "Colorado":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.618",
+        "percent std err":"0.053",
+        "total":"12,116",
+        "total std err":"1,046"
+      },
+      "Census 2000":{
+        "percent":"0.606",
+        "total":"10,045"
+      },
+      "Census 2010":{
+        "percent":"0.817",
+        "total":"16,114"
+      },
+      "Percent Change":"60.4"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.102",
+        "percent std err":"0.025",
+        "total":"2,000",
+        "total std err":"483"
+      },
+      "Census 2000":{
+        "percent":"0.201",
+        "total":"3,341"
+      },
+      "Census 2010":{
+        "percent":"0.242",
+        "total":"4,783"
+      },
+      "Percent Change":"30.1"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.516",
+        "percent std err":"0.046",
+        "total":"10,116",
+        "total std err":"906"
+      },
+      "Census 2000":{
+        "percent":"0.404",
+        "total":"6,704"
+      },
+      "Census 2010":{
+        "percent":"0.574",
+        "total":"11,331"
+      },
+      "Percent Change":"40.8"
+    }
+  },
+  "Connecticut":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.672",
+        "percent std err":"0.067",
+        "total":"9,135",
+        "total std err":"906"
+      },
+      "Census 2000":{
+        "percent":"0.567",
+        "total":"7,386"
+      },
+      "Census 2010":{
+        "percent":"0.784",
+        "total":"10,747"
+      },
+      "Percent Change":"45.5"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.287",
+        "percent std err":"0.043",
+        "total":"3,900",
+        "total std err":"582"
+      },
+      "Census 2000":{
+        "percent":"0.237",
+        "total":"3,087"
+      },
+      "Census 2010":{
+        "percent":"0.380",
+        "total":"5,211"
+      },
+      "Percent Change":"40.8"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.385",
+        "percent std err":"0.059",
+        "total":"5,235",
+        "total std err":"798"
+      },
+      "Census 2000":{
+        "percent":"0.330",
+        "total":"4,299"
+      },
+      "Census 2010":{
+        "percent":"0.404",
+        "total":"5,536"
+      },
+      "Percent Change":"22.3"
+    }
+  },
+  "Delaware":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.565",
+        "percent std err":"0.095",
+        "total":"1,859",
+        "total std err":"314"
+      },
+      "Census 2000":{
+        "percent":"0.625",
+        "total":"1,868"
+      },
+      "Census 2010":{
+        "percent":"0.979",
+        "total":"3,352"
+      },
+      "Percent Change":"79.4"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.164",
+        "percent std err":"0.046",
+        "total":"540",
+        "total std err":"151"
+      },
+      "Census 2000":{
+        "percent":"0.226",
+        "total":"675"
+      },
+      "Census 2010":{
+        "percent":"0.282",
+        "total":"966"
+      },
+      "Percent Change":"30.1"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.401",
+        "percent std err":"0.074",
+        "total":"1,319",
+        "total std err":"245"
+      },
+      "Census 2000":{
+        "percent":"0.399",
+        "total":"1,193"
+      },
+      "Census 2010":{
+        "percent":"0.697",
+        "total":"2,386"
+      },
+      "Percent Change":"50.0"
+    }
+  },
+  "District of  Columbia":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"1.172",
+        "percent std err":"0.148",
+        "total":"2,959",
+        "total std err":"372"
+      },
+      "Census 2000":{
+        "percent":"1.481",
+        "total":"3,678"
+      },
+      "Census 2010":{
+        "percent":"1.929",
+        "total":"5,146"
+      },
+      "Percent Change":"39.9"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.083",
+        "percent std err":"0.044",
+        "total":"209",
+        "total std err":"111"
+      },
+      "Census 2000":{
+        "percent":"0.208",
+        "total":"516"
+      },
+      "Census 2010":{
+        "percent":"0.369",
+        "total":"985"
+      },
+      "Percent Change":"47.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"1.090",
+        "percent std err":"0.141",
+        "total":"2,750",
+        "total std err":"355"
+      },
+      "Census 2000":{
+        "percent":"1.273",
+        "total":"3,162"
+      },
+      "Census 2010":{
+        "percent":"1.560",
+        "total":"4,161"
+      },
+      "Percent Change":"24.0"
+    }
+  },
+  "Florida":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.576",
+        "percent std err":"0.029",
+        "total":"40,537",
+        "total std err":"2,010"
+      },
+      "Census 2000":{
+        "percent":"0.648",
+        "total":"41,048"
+      },
+      "Census 2010":{
+        "percent":"0.884",
+        "total":"65,601"
+      },
+      "Percent Change":"59.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.116",
+        "percent std err":"0.012",
+        "total":"8,153",
+        "total std err":"826"
+      },
+      "Census 2000":{
+        "percent":"0.262",
+        "total":"16,628"
+      },
+      "Census 2010":{
+        "percent":"0.286",
+        "total":"21,208"
+      },
+      "Percent Change":"21.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.460",
+        "percent std err":"0.027",
+        "total":"32,384",
+        "total std err":"1,883"
+      },
+      "Census 2000":{
+        "percent":"0.385",
+        "total":"24,420"
+      },
+      "Census 2010":{
+        "percent":"0.598",
+        "total":"44,393"
+      },
+      "Percent Change":"45.0"
+    }
+  },
+  "Georgia":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.456",
+        "percent std err":"0.036",
+        "total":"15,897",
+        "total std err":"1,241"
+      },
+      "Census 2000":{
+        "percent":"0.642",
+        "total":"19,288"
+      },
+      "Census 2010":{
+        "percent":"0.832",
+        "total":"29,844"
+      },
+      "Percent Change":"54.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.090",
+        "percent std err":"0.014",
+        "total":"3,137",
+        "total std err":"496"
+      },
+      "Census 2000":{
+        "percent":"0.273",
+        "total":"8,202"
+      },
+      "Census 2010":{
+        "percent":"0.307",
+        "total":"11,011"
+      },
+      "Percent Change":"25.5"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.366",
+        "percent std err":"0.031",
+        "total":"12,760",
+        "total std err":"1,093"
+      },
+      "Census 2000":{
+        "percent":"0.369",
+        "total":"11,086"
+      },
+      "Census 2010":{
+        "percent":"0.525",
+        "total":"18,833"
+      },
+      "Percent Change":"41.1"
+    }
+  },
+  "Hawaii":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.779",
+        "percent std err":"0.100",
+        "total":"3,472",
+        "total std err":"447"
+      },
+      "Census 2000":{
+        "percent":"0.592",
+        "total":"2,389"
+      },
+      "Census 2010":{
+        "percent":"0.933",
+        "total":"4,248"
+      },
+      "Percent Change":"77.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.331",
+        "percent std err":"0.077",
+        "total":"1,475",
+        "total std err":"344"
+      },
+      "Census 2000":{
+        "percent":"0.264",
+        "total":"1,063"
+      },
+      "Census 2010":{
+        "percent":"0.321",
+        "total":"1,462"
+      },
+      "Percent Change":"27.3"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.448",
+        "percent std err":"0.081",
+        "total":"1,997",
+        "total std err":"362"
+      },
+      "Census 2000":{
+        "percent":"0.329",
+        "total":"1,326"
+      },
+      "Census 2010":{
+        "percent":"0.612",
+        "total":"2,786"
+      },
+      "Percent Change":"52.4"
+    }
+  },
+  "Idaho":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.315",
+        "percent std err":"0.067",
+        "total":"1,815",
+        "total std err":"388"
+      },
+      "Census 2000":{
+        "percent":"0.399",
+        "total":"1,873"
+      },
+      "Census 2010":{
+        "percent":"0.560",
+        "total":"3,245"
+      },
+      "Percent Change":"73.3"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.135",
+        "percent std err":"0.041",
+        "total":"777",
+        "total std err":"239"
+      },
+      "Census 2000":{
+        "percent":"0.233",
+        "total":"1,092"
+      },
+      "Census 2010":{
+        "percent":"0.255",
+        "total":"1,480"
+      },
+      "Percent Change":"26.2"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.180",
+        "percent std err":"0.047",
+        "total":"1,038",
+        "total std err":"270"
+      },
+      "Census 2000":{
+        "percent":"0.166",
+        "total":"781"
+      },
+      "Census 2010":{
+        "percent":"0.305",
+        "total":"1,765"
+      },
+      "Percent Change":"55.8"
+    }
+  },
+  "Illinois":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.414",
+        "percent std err":"0.028",
+        "total":"19,670",
+        "total std err":"1,338"
+      },
+      "Census 2000":{
+        "percent":"0.498",
+        "total":"22,887"
+      },
+      "Census 2010":{
+        "percent":"0.671",
+        "total":"32,469"
+      },
+      "Percent Change":"41.9"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.098",
+        "percent std err":"0.012",
+        "total":"4,638",
+        "total std err":"573"
+      },
+      "Census 2000":{
+        "percent":"0.222",
+        "total":"10,173"
+      },
+      "Census 2010":{
+        "percent":"0.240",
+        "total":"11,593"
+      },
+      "Percent Change":"12.2"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.316",
+        "percent std err":"0.022",
+        "total":"15,032",
+        "total std err":"1,069"
+      },
+      "Census 2000":{
+        "percent":"0.277",
+        "total":"12,714"
+      },
+      "Census 2010":{
+        "percent":"0.432",
+        "total":"20,876"
+      },
+      "Percent Change":"39.1"
+    }
+  },
+  "Indiana":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.402",
+        "percent std err":"0.038",
+        "total":"9,936",
+        "total std err":"943"
+      },
+      "Census 2000":{
+        "percent":"0.437",
+        "total":"10,219"
+      },
+      "Census 2010":{
+        "percent":"0.657",
+        "total":"16,428"
+      },
+      "Percent Change":"60.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.078",
+        "percent std err":"0.014",
+        "total":"1,927",
+        "total std err":"336"
+      },
+      "Census 2000":{
+        "percent":"0.199",
+        "total":"4,649"
+      },
+      "Census 2010":{
+        "percent":"0.246",
+        "total":"6,158"
+      },
+      "Percent Change":"24.5"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.324",
+        "percent std err":"0.033",
+        "total":"8,009",
+        "total std err":"824"
+      },
+      "Census 2000":{
+        "percent":"0.238",
+        "total":"5,570"
+      },
+      "Census 2010":{
+        "percent":"0.410",
+        "total":"10,270"
+      },
+      "Percent Change":"45.8"
+    }
+  },
+  "Iowa":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.372",
+        "percent std err":"0.048",
+        "total":"4,556",
+        "total std err":"586"
+      },
+      "Census 2000":{
+        "percent":"0.322",
+        "total":"3,698"
+      },
+      "Census 2010":{
+        "percent":"0.535",
+        "total":"6,540"
+      },
+      "Percent Change":"76.9"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.172",
+        "percent std err":"0.029",
+        "total":"2,101",
+        "total std err":"359"
+      },
+      "Census 2000":{
+        "percent":"0.165",
+        "total":"1,891"
+      },
+      "Census 2010":{
+        "percent":"0.284",
+        "total":"3,473"
+      },
+      "Percent Change":"45.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.201",
+        "percent std err":"0.040",
+        "total":"2,455",
+        "total std err":"497"
+      },
+      "Census 2000":{
+        "percent":"0.157",
+        "total":"1,807"
+      },
+      "Census 2010":{
+        "percent":"0.251",
+        "total":"3,067"
+      },
+      "Percent Change":"41.1"
+    }
+  },
+  "Kansas":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.330",
+        "percent std err":"0.050",
+        "total":"3,638",
+        "total std err":"548"
+      },
+      "Census 2000":{
+        "percent":"0.383",
+        "total":"3,973"
+      },
+      "Census 2010":{
+        "percent":"0.555",
+        "total":"6,176"
+      },
+      "Percent Change":"55.4"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.073",
+        "percent std err":"0.019",
+        "total":"801",
+        "total std err":"204"
+      },
+      "Census 2000":{
+        "percent":"0.200",
+        "total":"2,075"
+      },
+      "Census 2010":{
+        "percent":"0.246",
+        "total":"2,731"
+      },
+      "Percent Change":"24.0"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.258",
+        "percent std err":"0.044",
+        "total":"2,837",
+        "total std err":"480"
+      },
+      "Census 2000":{
+        "percent":"0.183",
+        "total":"1,898"
+      },
+      "Census 2010":{
+        "percent":"0.310",
+        "total":"3,445"
+      },
+      "Percent Change":"44.9"
+    }
+  },
+  "Kentucky":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.405",
+        "percent std err":"0.041",
+        "total":"6,822",
+        "total std err":"689"
+      },
+      "Census 2000":{
+        "percent":"0.447",
+        "total":"7,114"
+      },
+      "Census 2010":{
+        "percent":"0.673",
+        "total":"11,572"
+      },
+      "Percent Change":"62.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.088",
+        "percent std err":"0.021",
+        "total":"1,485",
+        "total std err":"359"
+      },
+      "Census 2000":{
+        "percent":"0.248",
+        "total":"3,951"
+      },
+      "Census 2010":{
+        "percent":"0.297",
+        "total":"5,111"
+      },
+      "Percent Change":"22.7"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.317",
+        "percent std err":"0.039",
+        "total":"5,337",
+        "total std err":"654"
+      },
+      "Census 2000":{
+        "percent":"0.199",
+        "total":"3,163"
+      },
+      "Census 2010":{
+        "percent":"0.376",
+        "total":"6,461"
+      },
+      "Percent Change":"51.0"
+    }
+  },
+  "Louisiana":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.318",
+        "percent std err":"0.039",
+        "total":"5,379",
+        "total std err":"668"
+      },
+      "Census 2000":{
+        "percent":"0.532",
+        "total":"8,808"
+      },
+      "Census 2010":{
+        "percent":"0.703",
+        "total":"12,153"
+      },
+      "Percent Change":"38.0"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.076",
+        "percent std err":"0.017",
+        "total":"1,283",
+        "total std err":"282"
+      },
+      "Census 2000":{
+        "percent":"0.279",
+        "total":"4,616"
+      },
+      "Census 2010":{
+        "percent":"0.299",
+        "total":"5,166"
+      },
+      "Percent Change":"10.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.242",
+        "percent std err":"0.032",
+        "total":"4,096",
+        "total std err":"551"
+      },
+      "Census 2000":{
+        "percent":"0.253",
+        "total":"4,192"
+      },
+      "Census 2010":{
+        "percent":"0.404",
+        "total":"6,987"
+      },
+      "Percent Change":"40.0"
+    }
+  },
+  "Maine":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.774",
+        "percent std err":"0.109",
+        "total":"4,220",
+        "total std err":"598"
+      },
+      "Census 2000":{
+        "percent":"0.655",
+        "total":"3,394"
+      },
+      "Census 2010":{
+        "percent":"0.970",
+        "total":"5,405"
+      },
+      "Percent Change":"59.3"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.178",
+        "percent std err":"0.046",
+        "total":"971",
+        "total std err":"250"
+      },
+      "Census 2000":{
+        "percent":"0.233",
+        "total":"1,207"
+      },
+      "Census 2010":{
+        "percent":"0.283",
+        "total":"1,577"
+      },
+      "Percent Change":"23.5"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.596",
+        "percent std err":"0.094",
+        "total":"3,249",
+        "total std err":"514"
+      },
+      "Census 2000":{
+        "percent":"0.422",
+        "total":"2,187"
+      },
+      "Census 2010":{
+        "percent":"0.687",
+        "total":"3,828"
+      },
+      "Percent Change":"42.9"
+    }
+  },
+  "Maryland":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.485",
+        "percent std err":"0.048",
+        "total":"10,321",
+        "total std err":"1,019"
+      },
+      "Census 2000":{
+        "percent":"0.568",
+        "total":"11,243"
+      },
+      "Census 2010":{
+        "percent":"0.788",
+        "total":"16,987"
+      },
+      "Percent Change":"51.1"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.121",
+        "percent std err":"0.021",
+        "total":"2,565",
+        "total std err":"448"
+      },
+      "Census 2000":{
+        "percent":"0.223",
+        "total":"4,425"
+      },
+      "Census 2010":{
+        "percent":"0.282",
+        "total":"6,084"
+      },
+      "Percent Change":"27.3"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.365",
+        "percent std err":"0.041",
+        "total":"7,756",
+        "total std err":"876"
+      },
+      "Census 2000":{
+        "percent":"0.344",
+        "total":"6,818"
+      },
+      "Census 2010":{
+        "percent":"0.506",
+        "total":"10,903"
+      },
+      "Percent Change":"37.5"
+    }
+  },
+  "Mass":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.829",
+        "percent std err":"0.059",
+        "total":"20,905",
+        "total std err":"1,486"
+      },
+      "Census 2000":{
+        "percent":"0.700",
+        "total":"17,099"
+      },
+      "Census 2010":{
+        "percent":"1.023",
+        "total":"26,049"
+      },
+      "Percent Change":"52.3"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.387",
+        "percent std err":"0.033",
+        "total":"9,755",
+        "total std err":"826"
+      },
+      "Census 2000":{
+        "percent":"0.234",
+        "total":"5,708"
+      },
+      "Census 2010":{
+        "percent":"0.540",
+        "total":"13,750"
+      },
+      "Percent Change":"58.5"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.442",
+        "percent std err":"0.044",
+        "total":"11,150",
+        "total std err":"1,106"
+      },
+      "Census 2000":{
+        "percent":"0.466",
+        "total":"11,391"
+      },
+      "Census 2010":{
+        "percent":"0.483",
+        "total":"12,299"
+      },
+      "Percent Change":"7.4"
+    }
+  },
+  "Michigan":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.389",
+        "percent std err":"0.028",
+        "total":"14,794",
+        "total std err":"1,069"
+      },
+      "Census 2000":{
+        "percent":"0.406",
+        "total":"15,368"
+      },
+      "Census 2010":{
+        "percent":"0.562",
+        "total":"21,782"
+      },
+      "Percent Change":"41.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.099",
+        "percent std err":"0.014",
+        "total":"3,787",
+        "total std err":"520"
+      },
+      "Census 2000":{
+        "percent":"0.188",
+        "total":"7,120"
+      },
+      "Census 2010":{
+        "percent":"0.215",
+        "total":"8,342"
+      },
+      "Percent Change":"14.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.289",
+        "percent std err":"0.025",
+        "total":"11,007",
+        "total std err":"947"
+      },
+      "Census 2000":{
+        "percent":"0.218",
+        "total":"8,248"
+      },
+      "Census 2010":{
+        "percent":"0.347",
+        "total":"13,440"
+      },
+      "Percent Change":"38.6"
+    }
+  },
+  "Minnesota":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.602",
+        "percent std err":"0.040",
+        "total":"12,589",
+        "total std err":"845"
+      },
+      "Census 2000":{
+        "percent":"0.483",
+        "total":"9,147"
+      },
+      "Census 2010":{
+        "percent":"0.657",
+        "total":"13,718"
+      },
+      "Percent Change":"50.0"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.127",
+        "percent std err":"0.018",
+        "total":"2,664",
+        "total std err":"369"
+      },
+      "Census 2000":{
+        "percent":"0.159",
+        "total":"3,015"
+      },
+      "Census 2010":{
+        "percent":"0.207",
+        "total":"4,325"
+      },
+      "Percent Change":"30.3"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.475",
+        "percent std err":"0.039",
+        "total":"9,925",
+        "total std err":"824"
+      },
+      "Census 2000":{
+        "percent":"0.324",
+        "total":"6,132"
+      },
+      "Census 2010":{
+        "percent":"0.450",
+        "total":"9,393"
+      },
+      "Percent Change":"34.7"
+    }
+  },
+  "Mississippi":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.258",
+        "percent std err":"0.048",
+        "total":"2,790",
+        "total std err":"521"
+      },
+      "Census 2000":{
+        "percent":"0.456",
+        "total":"4,774"
+      },
+      "Census 2010":{
+        "percent":"0.563",
+        "total":"6,286"
+      },
+      "Percent Change":"31.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.105",
+        "percent std err":"0.024",
+        "total":"1,132",
+        "total std err":"263"
+      },
+      "Census 2000":{
+        "percent":"0.290",
+        "total":"3,031"
+      },
+      "Census 2010":{
+        "percent":"0.309",
+        "total":"3,453"
+      },
+      "Percent Change":"12.2"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.154",
+        "percent std err":"0.039",
+        "total":"1,658",
+        "total std err":"421"
+      },
+      "Census 2000":{
+        "percent":"0.167",
+        "total":"1,743"
+      },
+      "Census 2010":{
+        "percent":"0.254",
+        "total":"2,833"
+      },
+      "Percent Change":"38.5"
+    }
+  },
+  "Missouri":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.425",
+        "percent std err":"0.037",
+        "total":"9,982",
+        "total std err":"873"
+      },
+      "Census 2000":{
+        "percent":"0.430",
+        "total":"9,428"
+      },
+      "Census 2010":{
+        "percent":"0.642",
+        "total":"15,242"
+      },
+      "Percent Change":"61.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.073",
+        "percent std err":"0.018",
+        "total":"1,716",
+        "total std err":"414"
+      },
+      "Census 2000":{
+        "percent":"0.191",
+        "total":"4,190"
+      },
+      "Census 2010":{
+        "percent":"0.233",
+        "total":"5,544"
+      },
+      "Percent Change":"24.4"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.352",
+        "percent std err":"0.034",
+        "total":"8,266",
+        "total std err":"796"
+      },
+      "Census 2000":{
+        "percent":"0.239",
+        "total":"5,238"
+      },
+      "Census 2010":{
+        "percent":"0.408",
+        "total":"9,698"
+      },
+      "Percent Change":"46.0"
+    }
+  },
+  "Montana":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.401",
+        "percent std err":"0.100",
+        "total":"1,614",
+        "total std err":"404"
+      },
+      "Census 2000":{
+        "percent":"0.340",
+        "total":"1,218"
+      },
+      "Census 2010":{
+        "percent":"0.560",
+        "total":"2,295"
+      },
+      "Percent Change":"88.4"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.166",
+        "percent std err":"0.075",
+        "total":"668",
+        "total std err":"302"
+      },
+      "Census 2000":{
+        "percent":"0.203",
+        "total":"729"
+      },
+      "Census 2010":{
+        "percent":"0.267",
+        "total":"1,095"
+      },
+      "Percent Change":"33.4"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.235",
+        "percent std err":"0.063",
+        "total":"946",
+        "total std err":"254"
+      },
+      "Census 2000":{
+        "percent":"0.136",
+        "total":"489"
+      },
+      "Census 2010":{
+        "percent":"0.293",
+        "total":"1,200"
+      },
+      "Percent Change":"59.3"
+    }
+  },
+  "Nebraska":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.394",
+        "percent std err":"0.059",
+        "total":"2,835",
+        "total std err":"425"
+      },
+      "Census 2000":{
+        "percent":"0.350",
+        "total":"2,332"
+      },
+      "Census 2010":{
+        "percent":"0.520",
+        "total":"3,749"
+      },
+      "Percent Change":"60.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.178",
+        "percent std err":"0.042",
+        "total":"1,277",
+        "total std err":"306"
+      },
+      "Census 2000":{
+        "percent":"0.177",
+        "total":"1,180"
+      },
+      "Census 2010":{
+        "percent":"0.236",
+        "total":"1,702"
+      },
+      "Percent Change":"30.7"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.217",
+        "percent std err":"0.047",
+        "total":"1,558",
+        "total std err":"342"
+      },
+      "Census 2000":{
+        "percent":"0.173",
+        "total":"1,152"
+      },
+      "Census 2010":{
+        "percent":"0.284",
+        "total":"2,047"
+      },
+      "Percent Change":"43.7"
+    }
+  },
+  "Nevada":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.551",
+        "percent std err":"0.072",
+        "total":"5,451",
+        "total std err":"714"
+      },
+      "Census 2000":{
+        "percent":"0.662",
+        "total":"4,973"
+      },
+      "Census 2010":{
+        "percent":"0.926",
+        "total":"9,321"
+      },
+      "Percent Change":"87.4"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.118",
+        "percent std err":"0.035",
+        "total":"1,172",
+        "total std err":"347"
+      },
+      "Census 2000":{
+        "percent":"0.275",
+        "total":"2,066"
+      },
+      "Census 2010":{
+        "percent":"0.300",
+        "total":"3,022"
+      },
+      "Percent Change":"31.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.432",
+        "percent std err":"0.064",
+        "total":"4,279",
+        "total std err":"639"
+      },
+      "Census 2000":{
+        "percent":"0.387",
+        "total":"2,907"
+      },
+      "Census 2010":{
+        "percent":"0.626",
+        "total":"6,299"
+      },
+      "Percent Change":"53.8"
+    }
+  },
+  "New Hampshire":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.553",
+        "percent std err":"0.096",
+        "total":"2,850",
+        "total std err":"493"
+      },
+      "Census 2000":{
+        "percent":"0.570",
+        "total":"2,703"
+      },
+      "Census 2010":{
+        "percent":"0.893",
+        "total":"4,635"
+      },
+      "Percent Change":"71.5"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.257",
+        "percent std err":"0.063",
+        "total":"1,326",
+        "total std err":"323"
+      },
+      "Census 2000":{
+        "percent":"0.225",
+        "total":"1,068"
+      },
+      "Census 2010":{
+        "percent":"0.423",
+        "total":"2,194"
+      },
+      "Percent Change":"51.3"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.296",
+        "percent std err":"0.071",
+        "total":"1,524",
+        "total std err":"366"
+      },
+      "Census 2000":{
+        "percent":"0.344",
+        "total":"1,635"
+      },
+      "Census 2010":{
+        "percent":"0.470",
+        "total":"2,441"
+      },
+      "Percent Change":"33.0"
+    }
+  },
+  "New Jersey":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.494",
+        "percent std err":"0.044",
+        "total":"15,678",
+        "total std err":"1,408"
+      },
+      "Census 2000":{
+        "percent":"0.542",
+        "total":"16,604"
+      },
+      "Census 2010":{
+        "percent":"0.750",
+        "total":"24,112"
+      },
+      "Percent Change":"45.2"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.151",
+        "percent std err":"0.019",
+        "total":"4,797",
+        "total std err":"598"
+      },
+      "Census 2000":{
+        "percent":"0.257",
+        "total":"7,888"
+      },
+      "Census 2010":{
+        "percent":"0.332",
+        "total":"10,668"
+      },
+      "Percent Change":"26.1"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.343",
+        "percent std err":"0.035",
+        "total":"10,881",
+        "total std err":"1,107"
+      },
+      "Census 2000":{
+        "percent":"0.284",
+        "total":"8,716"
+      },
+      "Census 2010":{
+        "percent":"0.418",
+        "total":"13,444"
+      },
+      "Percent Change":"35.2"
+    }
+  },
+  "New Mexico":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.701",
+        "percent std err":"0.094",
+        "total":"5,362",
+        "total std err":"727"
+      },
+      "Census 2000":{
+        "percent":"0.663",
+        "total":"4,496"
+      },
+      "Census 2010":{
+        "percent":"0.984",
+        "total":"7,784"
+      },
+      "Percent Change":"73.1"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.079",
+        "percent std err":"0.025",
+        "total":"601",
+        "total std err":"191"
+      },
+      "Census 2000":{
+        "percent":"0.265",
+        "total":"1,794"
+      },
+      "Census 2010":{
+        "percent":"0.308",
+        "total":"2,437"
+      },
+      "Percent Change":"26.4"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.622",
+        "percent std err":"0.086",
+        "total":"4,761",
+        "total std err":"659"
+      },
+      "Census 2000":{
+        "percent":"0.399",
+        "total":"2,702"
+      },
+      "Census 2010":{
+        "percent":"0.676",
+        "total":"5,347"
+      },
+      "Percent Change":"49.5"
+    }
+  },
+  "New York":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.636",
+        "percent std err":"0.028",
+        "total":"45,792",
+        "total std err":"2,023"
+      },
+      "Census 2000":{
+        "percent":"0.659",
+        "total":"46,490"
+      },
+      "Census 2010":{
+        "percent":"0.892",
+        "total":"65,303"
+      },
+      "Percent Change":"40.5"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.152",
+        "percent std err":"0.016",
+        "total":"10,966",
+        "total std err":"1,159"
+      },
+      "Census 2000":{
+        "percent":"0.269",
+        "total":"18,966"
+      },
+      "Census 2010":{
+        "percent":"0.328",
+        "total":"23,978"
+      },
+      "Percent Change":"20.9"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.484",
+        "percent std err":"0.022",
+        "total":"34,826",
+        "total std err":"1,567"
+      },
+      "Census 2000":{
+        "percent":"0.390",
+        "total":"27,524"
+      },
+      "Census 2010":{
+        "percent":"0.565",
+        "total":"41,325"
+      },
+      "Percent Change":"33.4"
+    }
+  },
+  "North Carolina":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.474",
+        "percent std err":"0.033",
+        "total":"17,387",
+        "total std err":"1,200"
+      },
+      "Census 2000":{
+        "percent":"0.517",
+        "total":"16,198"
+      },
+      "Census 2010":{
+        "percent":"0.728",
+        "total":"27,250"
+      },
+      "Percent Change":"68.2"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.102",
+        "percent std err":"0.015",
+        "total":"3,757",
+        "total std err":"541"
+      },
+      "Census 2000":{
+        "percent":"0.271",
+        "total":"8,503"
+      },
+      "Census 2010":{
+        "percent":"0.293",
+        "total":"10,990"
+      },
+      "Percent Change":"22.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.371",
+        "percent std err":"0.030",
+        "total":"13,630",
+        "total std err":"1,097"
+      },
+      "Census 2000":{
+        "percent":"0.246",
+        "total":"7,695"
+      },
+      "Census 2010":{
+        "percent":"0.434",
+        "total":"16,260"
+      },
+      "Percent Change":"52.7"
+    }
+  },
+  "North Dakota":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.292",
+        "percent std err":"0.074",
+        "total":"818",
+        "total std err":"209"
+      },
+      "Census 2000":{
+        "percent":"0.273",
+        "total":"703"
+      },
+      "Census 2010":{
+        "percent":"0.396",
+        "total":"1,113"
+      },
+      "Percent Change":"58.3"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.081",
+        "percent std err":"0.035",
+        "total":"226",
+        "total std err":"99"
+      },
+      "Census 2000":{
+        "percent":"0.185",
+        "total":"475"
+      },
+      "Census 2010":{
+        "percent":"0.219",
+        "total":"616"
+      },
+      "Percent Change":"22.9"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.211",
+        "percent std err":"0.069",
+        "total":"592",
+        "total std err":"195"
+      },
+      "Census 2000":{
+        "percent":"0.089",
+        "total":"228"
+      },
+      "Census 2010":{
+        "percent":"0.177",
+        "total":"497"
+      },
+      "Percent Change":"54.1"
+    }
+  },
+  "Ohio":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.402",
+        "percent std err":"0.025",
+        "total":"18,194",
+        "total std err":"1,112"
+      },
+      "Census 2000":{
+        "percent":"0.426",
+        "total":"18,937"
+      },
+      "Census 2010":{
+        "percent":"0.621",
+        "total":"28,602"
+      },
+      "Percent Change":"51.0"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.074",
+        "percent std err":"0.009",
+        "total":"3,353",
+        "total std err":"423"
+      },
+      "Census 2000":{
+        "percent":"0.193",
+        "total":"8,569"
+      },
+      "Census 2010":{
+        "percent":"0.220",
+        "total":"10,122"
+      },
+      "Percent Change":"15.3"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.328",
+        "percent std err":"0.021",
+        "total":"14,841",
+        "total std err":"972"
+      },
+      "Census 2000":{
+        "percent":"0.233",
+        "total":"10,368"
+      },
+      "Census 2010":{
+        "percent":"0.401",
+        "total":"18,480"
+      },
+      "Percent Change":"43.9"
+    }
+  },
+  "Oklahoma":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.443",
+        "percent std err":"0.047",
+        "total":"6,347",
+        "total std err":"669"
+      },
+      "Census 2000":{
+        "percent":"0.429",
+        "total":"5,763"
+      },
+      "Census 2010":{
+        "percent":"0.671",
+        "total":"9,802"
+      },
+      "Percent Change":"70.1"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.092",
+        "percent std err":"0.023",
+        "total":"1,312",
+        "total std err":"325"
+      },
+      "Census 2000":{
+        "percent":"0.237",
+        "total":"3,180"
+      },
+      "Census 2010":{
+        "percent":"0.310",
+        "total":"4,529"
+      },
+      "Percent Change":"29.8"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.351",
+        "percent std err":"0.044",
+        "total":"5,035",
+        "total std err":"627"
+      },
+      "Census 2000":{
+        "percent":"0.192",
+        "total":"2,583"
+      },
+      "Census 2010":{
+        "percent":"0.361",
+        "total":"5,273"
+      },
+      "Percent Change":"51.0"
+    }
+  },
+  "Oregon":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.695",
+        "percent std err":"0.070",
+        "total":"10,475",
+        "total std err":"1,061"
+      },
+      "Census 2000":{
+        "percent":"0.670",
+        "total":"8,932"
+      },
+      "Census 2010":{
+        "percent":"0.986",
+        "total":"14,979"
+      },
+      "Percent Change":"67.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.153",
+        "percent std err":"0.028",
+        "total":"2,299",
+        "total std err":"428"
+      },
+      "Census 2000":{
+        "percent":"0.211",
+        "total":"2,809"
+      },
+      "Census 2010":{
+        "percent":"0.305",
+        "total":"4,633"
+      },
+      "Percent Change":"39.4"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.542",
+        "percent std err":"0.061",
+        "total":"8,176",
+        "total std err":"921"
+      },
+      "Census 2000":{
+        "percent":"0.459",
+        "total":"6,123"
+      },
+      "Census 2010":{
+        "percent":"0.681",
+        "total":"10,346"
+      },
+      "Percent Change":"40.8"
+    }
+  },
+  "Pennsylvania":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.438",
+        "percent std err":"0.028",
+        "total":"21,612",
+        "total std err":"1,357"
+      },
+      "Census 2000":{
+        "percent":"0.443",
+        "total":"21,166"
+      },
+      "Census 2010":{
+        "percent":"0.670",
+        "total":"33,602"
+      },
+      "Percent Change":"58.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.121",
+        "percent std err":"0.012",
+        "total":"5,966",
+        "total std err":"597"
+      },
+      "Census 2000":{
+        "percent":"0.210",
+        "total":"10,018"
+      },
+      "Census 2010":{
+        "percent":"0.256",
+        "total":"12,858"
+      },
+      "Percent Change":"22.1"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.317",
+        "percent std err":"0.023",
+        "total":"15,646",
+        "total std err":"1,143"
+      },
+      "Census 2000":{
+        "percent":"0.233",
+        "total":"11,148"
+      },
+      "Census 2010":{
+        "percent":"0.413",
+        "total":"20,744"
+      },
+      "Percent Change":"46.3"
+    }
+  },
+  "Rhode Island":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.885",
+        "percent std err":"0.155",
+        "total":"3,561",
+        "total std err":"619"
+      },
+      "Census 2000":{
+        "percent":"0.605",
+        "total":"2,471"
+      },
+      "Census 2010":{
+        "percent":"0.886",
+        "total":"3,664"
+      },
+      "Percent Change":"48.3"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.176",
+        "percent std err":"0.054",
+        "total":"707",
+        "total std err":"217"
+      },
+      "Census 2000":{
+        "percent":"0.239",
+        "total":"977"
+      },
+      "Census 2010":{
+        "percent":"0.318",
+        "total":"1,314"
+      },
+      "Percent Change":"25.6"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.709",
+        "percent std err":"0.148",
+        "total":"2,854",
+        "total std err":"590"
+      },
+      "Census 2000":{
+        "percent":"0.366",
+        "total":"1,494"
+      },
+      "Census 2010":{
+        "percent":"0.568",
+        "total":"2,350"
+      },
+      "Percent Change":"36.4"
+    }
+  },
+  "South Carolina":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.318",
+        "percent std err":"0.041",
+        "total":"5,597",
+        "total std err":"712"
+      },
+      "Census 2000":{
+        "percent":"0.496",
+        "total":"7,609"
+      },
+      "Census 2010":{
+        "percent":"0.640",
+        "total":"11,532"
+      },
+      "Percent Change":"51.6"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.061",
+        "percent std err":"0.016",
+        "total":"1,076",
+        "total std err":"290"
+      },
+      "Census 2000":{
+        "percent":"0.292",
+        "total":"4,481"
+      },
+      "Census 2010":{
+        "percent":"0.294",
+        "total":"5,300"
+      },
+      "Percent Change":"15.5"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.257",
+        "percent std err":"0.038",
+        "total":"4,521",
+        "total std err":"659"
+      },
+      "Census 2000":{
+        "percent":"0.204",
+        "total":"3,128"
+      },
+      "Census 2010":{
+        "percent":"0.346",
+        "total":"6,232"
+      },
+      "Percent Change":"49.8"
+    }
+  },
+  "South Dakota":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.181",
+        "percent std err":"0.063",
+        "total":"578",
+        "total std err":"201"
+      },
+      "Census 2000":{
+        "percent":"0.285",
+        "total":"826"
+      },
+      "Census 2010":{
+        "percent":"0.431",
+        "total":"1,390"
+      },
+      "Percent Change":"68.3"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.125",
+        "percent std err":"0.055",
+        "total":"398",
+        "total std err":"174"
+      },
+      "Census 2000":{
+        "percent":"0.179",
+        "total":"519"
+      },
+      "Census 2010":{
+        "percent":"0.229",
+        "total":"739"
+      },
+      "Percent Change":"29.8"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.056",
+        "percent std err":"0.033",
+        "total":"180",
+        "total std err":"104"
+      },
+      "Census 2000":{
+        "percent":"0.106",
+        "total":"307"
+      },
+      "Census 2010":{
+        "percent":"0.202",
+        "total":"651"
+      },
+      "Percent Change":"52.8"
+    }
+  },
+  "Tennessee":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.400",
+        "percent std err":"0.040",
+        "total":"9,766",
+        "total std err":"967"
+      },
+      "Census 2000":{
+        "percent":"0.456",
+        "total":"10,189"
+      },
+      "Census 2010":{
+        "percent":"0.655",
+        "total":"16,322"
+      },
+      "Percent Change":"60.2"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.084",
+        "percent std err":"0.019",
+        "total":"2,060",
+        "total std err":"452"
+      },
+      "Census 2000":{
+        "percent":"0.245",
+        "total":"5,471"
+      },
+      "Census 2010":{
+        "percent":"0.263",
+        "total":"6,566"
+      },
+      "Percent Change":"16.7"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.316",
+        "percent std err":"0.038",
+        "total":"7,706",
+        "total std err":"933"
+      },
+      "Census 2000":{
+        "percent":"0.211",
+        "total":"4,718"
+      },
+      "Census 2010":{
+        "percent":"0.391",
+        "total":"9,756"
+      },
+      "Percent Change":"51.6"
+    }
+  },
+  "Texas":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.493",
+        "percent std err":"0.024",
+        "total":"43,045",
+        "total std err":"2,103"
+      },
+      "Census 2000":{
+        "percent":"0.580",
+        "total":"42,912"
+      },
+      "Census 2010":{
+        "percent":"0.756",
+        "total":"67,413"
+      },
+      "Percent Change":"57.1"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.105",
+        "percent std err":"0.010",
+        "total":"9,214",
+        "total std err":"872"
+      },
+      "Census 2000":{
+        "percent":"0.281",
+        "total":"20,795"
+      },
+      "Census 2010":{
+        "percent":"0.298",
+        "total":"26,602"
+      },
+      "Percent Change":"21.8"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.387",
+        "percent std err":"0.021",
+        "total":"33,831",
+        "total std err":"1,805"
+      },
+      "Census 2000":{
+        "percent":"0.299",
+        "total":"22,117"
+      },
+      "Census 2010":{
+        "percent":"0.457",
+        "total":"40,811"
+      },
+      "Percent Change":"45.8"
+    }
+  },
+  "United States":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.518",
+        "percent std err":"0.006",
+        "total":"593,324",
+        "total std err":"6,906"
+      },
+      "Census 2000":{
+        "percent":"0.563",
+        "total":"594,391"
+      },
+      "Census 2010":{
+        "percent":"0.773",
+        "total":"901,997"
+      },
+      "Percent Change":"51.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.133",
+        "percent std err":"0.003",
+        "total":"152,335",
+        "total std err":"3,225"
+      },
+      "Census 2000":{
+        "percent":"0.240",
+        "total":"253,377"
+      },
+      "Census 2010":{
+        "percent":"0.299",
+        "total":"349,377"
+      },
+      "Percent Change":"27.5"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.385",
+        "percent std err":"0.005",
+        "total":"440,989",
+        "total std err":"5,964"
+      },
+      "Census 2000":{
+        "percent":"0.323",
+        "total":"341,014"
+      },
+      "Census 2010":{
+        "percent":"0.473",
+        "total":"552,620"
+      },
+      "Percent Change":"38.3"
+    }
+  },
+  "Utah":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.447",
+        "percent std err":"0.055",
+        "total":"3,937",
+        "total std err":"480"
+      },
+      "Census 2000":{
+        "percent":"0.481",
+        "total":"3,370"
+      },
+      "Census 2010":{
+        "percent":"0.662",
+        "total":"5,814"
+      },
+      "Percent Change":"72.5"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.111",
+        "percent std err":"0.026",
+        "total":"975",
+        "total std err":"230"
+      },
+      "Census 2000":{
+        "percent":"0.246",
+        "total":"1,725"
+      },
+      "Census 2010":{
+        "percent":"0.289",
+        "total":"2,533"
+      },
+      "Percent Change":"31.9"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.337",
+        "percent std err":"0.051",
+        "total":"2,962",
+        "total std err":"445"
+      },
+      "Census 2000":{
+        "percent":"0.235",
+        "total":"1,645"
+      },
+      "Census 2010":{
+        "percent":"0.374",
+        "total":"3,281"
+      },
+      "Percent Change":"49.9"
+    }
+  },
+  "Vermont":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.697",
+        "percent std err":"0.109",
+        "total":"1,790",
+        "total std err":"280"
+      },
+      "Census 2000":{
+        "percent":"0.803",
+        "total":"1,933"
+      },
+      "Census 2010":{
+        "percent":"1.091",
+        "total":"2,798"
+      },
+      "Percent Change":"44.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.237",
+        "percent std err":"0.061",
+        "total":"610",
+        "total std err":"156"
+      },
+      "Census 2000":{
+        "percent":"0.261",
+        "total":"628"
+      },
+      "Census 2010":{
+        "percent":"0.502",
+        "total":"1,287"
+      },
+      "Percent Change":"51.2"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.459",
+        "percent std err":"0.094",
+        "total":"1,180",
+        "total std err":"240"
+      },
+      "Census 2000":{
+        "percent":"0.542",
+        "total":"1,305"
+      },
+      "Census 2010":{
+        "percent":"0.589",
+        "total":"1,511"
+      },
+      "Percent Change":"13.6"
+    }
+  },
+  "Virginia":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.443",
+        "percent std err":"0.039",
+        "total":"13,251",
+        "total std err":"1,164"
+      },
+      "Census 2000":{
+        "percent":"0.511",
+        "total":"13,802"
+      },
+      "Census 2010":{
+        "percent":"0.672",
+        "total":"20,540"
+      },
+      "Percent Change":"48.8"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.126",
+        "percent std err":"0.017",
+        "total":"3,782",
+        "total std err":"509"
+      },
+      "Census 2000":{
+        "percent":"0.222",
+        "total":"5,997"
+      },
+      "Census 2010":{
+        "percent":"0.261",
+        "total":"7,980"
+      },
+      "Percent Change":"24.8"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.316",
+        "percent std err":"0.032",
+        "total":"9,469",
+        "total std err":"954"
+      },
+      "Census 2000":{
+        "percent":"0.289",
+        "total":"7,805"
+      },
+      "Census 2010":{
+        "percent":"0.411",
+        "total":"12,560"
+      },
+      "Percent Change":"37.9"
+    }
+  },
+  "Washington":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.632",
+        "percent std err":"0.048",
+        "total":"16,485",
+        "total std err":"1,240"
+      },
+      "Census 2000":{
+        "percent":"0.700",
+        "total":"15,900"
+      },
+      "Census 2010":{
+        "percent":"0.927",
+        "total":"24,278"
+      },
+      "Percent Change":"52.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.112",
+        "percent std err":"0.017",
+        "total":"2,908",
+        "total std err":"447"
+      },
+      "Census 2000":{
+        "percent":"0.218",
+        "total":"4,955"
+      },
+      "Census 2010":{
+        "percent":"0.285",
+        "total":"7,455"
+      },
+      "Percent Change":"33.5"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.521",
+        "percent std err":"0.045",
+        "total":"13,577",
+        "total std err":"1,176"
+      },
+      "Census 2000":{
+        "percent":"0.482",
+        "total":"10,945"
+      },
+      "Census 2010":{
+        "percent":"0.642",
+        "total":"16,823"
+      },
+      "Percent Change":"34.9"
+    }
+  },
+  "West Virginia":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.311",
+        "percent std err":"0.054",
+        "total":"2,306",
+        "total std err":"403"
+      },
+      "Census 2000":{
+        "percent":"0.396",
+        "total":"2,916"
+      },
+      "Census 2010":{
+        "percent":"0.686",
+        "total":"5,240"
+      },
+      "Percent Change":"79.7"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.086",
+        "percent std err":"0.025",
+        "total":"636",
+        "total std err":"183"
+      },
+      "Census 2000":{
+        "percent":"0.248",
+        "total":"1,829"
+      },
+      "Census 2010":{
+        "percent":"0.353",
+        "total":"2,697"
+      },
+      "Percent Change":"32.2"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.225",
+        "percent std err":"0.046",
+        "total":"1,670",
+        "total std err":"346"
+      },
+      "Census 2000":{
+        "percent":"0.148",
+        "total":"1,087"
+      },
+      "Census 2010":{
+        "percent":"0.333",
+        "total":"2,543"
+      },
+      "Percent Change":"57.3"
+    }
+  },
+  "Wisconsin":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.414",
+        "percent std err":"0.030",
+        "total":"9,426",
+        "total std err":"686"
+      },
+      "Census 2000":{
+        "percent":"0.395",
+        "total":"8,232"
+      },
+      "Census 2010":{
+        "percent":"0.598",
+        "total":"13,630"
+      },
+      "Percent Change":"65.6"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.113",
+        "percent std err":"0.014",
+        "total":"2,583",
+        "total std err":"328"
+      },
+      "Census 2000":{
+        "percent":"0.166",
+        "total":"3,453"
+      },
+      "Census 2010":{
+        "percent":"0.216",
+        "total":"4,929"
+      },
+      "Percent Change":"29.9"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.300",
+        "percent std err":"0.026",
+        "total":"6,843",
+        "total std err":"601"
+      },
+      "Census 2000":{
+        "percent":"0.229",
+        "total":"4,779"
+      },
+      "Census 2010":{
+        "percent":"0.382",
+        "total":"8,701"
+      },
+      "Percent Change":"45.1"
+    }
+  },
+  "Wyoming":{
+    "Same-sex Couples":{
+      "ACS 2010":{
+        "percent":"0.175",
+        "percent std err":"0.069",
+        "total":"390",
+        "total std err":"154"
+      },
+      "Census 2000":{
+        "percent":"0.417",
+        "total":"807"
+      },
+      "Census 2010":{
+        "percent":"0.506",
+        "total":"1,147"
+      },
+      "Percent Change":"42.1"
+    },
+    "Same-sex Spouses":{
+      "ACS 2010":{
+        "percent":"0.008",
+        "percent std err":"0.009",
+        "total":"17",
+        "total std err":"20"
+      },
+      "Census 2000":{
+        "percent":"0.264",
+        "total":"512"
+      },
+      "Census 2010":{
+        "percent":"0.262",
+        "total":"594"
+      },
+      "Percent Change":"13.8"
+    },
+    "Same-sex Unmarried":{
+      "ACS 2010":{
+        "percent":"0.167",
+        "percent std err":"0.069",
+        "total":"373",
+        "total std err":"153"
+      },
+      "Census 2000":{
+        "percent":"0.152",
+        "total":"295"
+      },
+      "Census 2010":{
+        "percent":"0.244",
+        "total":"553"
+      },
+      "Percent Change":"46.7"
+    }
+  },
+  "inconsistent-percent":[
+    [
+      "United States",
+      "28.3",
+      "19.8",
+      "50.2",
+      "6.9",
+      "3.7",
+      "21.5",
+      "62.3",
+      "56.9",
+      "68.9"
+    ],
+    [
+      "Alabama",
+      "41.5",
+      "31.7",
+      "60.2",
+      "9.3",
+      "4.6",
+      "27.5",
+      "71.0",
+      "69.9",
+      "72.6"
+    ],
+    [
+      "Alaska",
+      "33.7",
+      "20.1",
+      "50.2",
+      "10.1",
+      "4.1",
+      "22.5",
+      "65.0",
+      "58.1",
+      "69.6"
+    ],
+    [
+      "Arizona",
+      "24.5",
+      "15.9",
+      "48.0",
+      "5.9",
+      "3.0",
+      "21.3",
+      "65.4",
+      "62.5",
+      "67.5"
+    ],
+    [
+      "Arkansas",
+      "39.7",
+      "27.8",
+      "58.6",
+      "10.3",
+      "4.9",
+      "28.3",
+      "69.9",
+      "67.4",
+      "71.9"
+    ],
+    [
+      "California",
+      "21.8",
+      "14.5",
+      "43.0",
+      "5.7",
+      "3.3",
+      "16.9",
+      "45.0",
+      "35.0",
+      "61.3"
+    ],
+    [
+      "Colorado",
+      "22.9",
+      "16.0",
+      "46.5",
+      "4.6",
+      "2.6",
+      "17.2",
+      "66.2",
+      "63.8",
+      "68.6"
+    ],
+    [
+      "Connecticut",
+      "26.9",
+      "20.1",
+      "47.1",
+      "7.0",
+      "4.0",
+      "19.9",
+      "48.1",
+      "40.2",
+      "64.2"
+    ],
+    [
+      "Delaware",
+      "21.1",
+      "14.4",
+      "43.6",
+      "5.0",
+      "2.6",
+      "18.2",
+      "60.7",
+      "57.0",
+      "65.8"
+    ],
+    [
+      "District of  Columbia",
+      "6.3",
+      "4.4",
+      "19.4",
+      "2.0",
+      "1.5",
+      "6.0",
+      "24.4",
+      "18.5",
+      "46.8"
+    ],
+    [
+      "Florida",
+      "26.1",
+      "19.1",
+      "47.3",
+      "6.0",
+      "3.4",
+      "19.8",
+      "68.0",
+      "67.5",
+      "69.0"
+    ],
+    [
+      "Georgia",
+      "28.6",
+      "19.3",
+      "51.1",
+      "6.2",
+      "3.4",
+      "19.8",
+      "66.8",
+      "64.1",
+      "69.5"
+    ],
+    [
+      "Hawaii",
+      "23.8",
+      "17.7",
+      "39.8",
+      "4.6",
+      "2.3",
+      "14.1",
+      "60.3",
+      "59.9",
+      "61.0"
+    ],
+    [
+      "Idaho",
+      "37.1",
+      "25.8",
+      "61.9",
+      "9.6",
+      "5.5",
+      "29.0",
+      "69.9",
+      "64.9",
+      "74.6"
+    ],
+    [
+      "Illinois",
+      "29.0",
+      "21.3",
+      "51.2",
+      "6.9",
+      "3.8",
+      "22.8",
+      "68.9",
+      "67.6",
+      "70.6"
+    ],
+    [
+      "Indiana",
+      "32.6",
+      "25.3",
+      "52.2",
+      "7.8",
+      "4.4",
+      "23.5",
+      "74.0",
+      "75.3",
+      "72.6"
+    ],
+    [
+      "Iowa",
+      "37.4",
+      "29.1",
+      "57.8",
+      "11.3",
+      "5.4",
+      "33.0",
+      "60.5",
+      "54.0",
+      "71.2"
+    ],
+    [
+      "Kansas",
+      "35.1",
+      "25.6",
+      "55.8",
+      "7.8",
+      "3.5",
+      "26.6",
+      "69.5",
+      "68.0",
+      "70.8"
+    ],
+    [
+      "Kentucky",
+      "37.8",
+      "26.4",
+      "60.3",
+      "9.2",
+      "4.9",
+      "26.6",
+      "74.0",
+      "71.4",
+      "76.7"
+    ],
+    [
+      "Louisiana",
+      "33.5",
+      "26.2",
+      "50.7",
+      "9.2",
+      "4.7",
+      "24.9",
+      "66.5",
+      "66.3",
+      "67.4"
+    ],
+    [
+      "Maine",
+      "26.8",
+      "17.7",
+      "49.7",
+      "7.2",
+      "3.9",
+      "20.6",
+      "74.2",
+      "68.8",
+      "80.1"
+    ],
+    [
+      "Maryland",
+      "26.2",
+      "19.2",
+      "46.1",
+      "6.3",
+      "3.5",
+      "20.1",
+      "61.9",
+      "59.4",
+      "65.1"
+    ],
+    [
+      "Mass",
+      "22.2",
+      "15.4",
+      "41.4",
+      "7.4",
+      "4.0",
+      "19.7",
+      "35.5",
+      "26.4",
+      "56.2"
+    ],
+    [
+      "Michigan",
+      "33.0",
+      "25.7",
+      "55.1",
+      "7.8",
+      "4.3",
+      "25.8",
+      "73.6",
+      "73.6",
+      "74.1"
+    ],
+    [
+      "Minnesota",
+      "25.6",
+      "18.1",
+      "53.9",
+      "5.5",
+      "3.0",
+      "23.5",
+      "69.2",
+      "65.2",
+      "75.5"
+    ],
+    [
+      "Mississippi",
+      "44.6",
+      "35.2",
+      "58.9",
+      "14.1",
+      "7.1",
+      "31.7",
+      "69.6",
+      "68.4",
+      "71.4"
+    ],
+    [
+      "Missouri",
+      "30.7",
+      "21.6",
+      "54.8",
+      "7.6",
+      "4.0",
+      "24.9",
+      "71.3",
+      "68.5",
+      "74.5"
+    ],
+    [
+      "Montana",
+      "41.3",
+      "33.1",
+      "58.8",
+      "11.5",
+      "5.7",
+      "30.2",
+      "73.9",
+      "74.5",
+      "74.3"
+    ],
+    [
+      "Nebraska",
+      "37.2",
+      "29.7",
+      "55.8",
+      "9.8",
+      "5.4",
+      "29.1",
+      "70.0",
+      "70.2",
+      "69.9"
+    ],
+    [
+      "Nevada",
+      "23.4",
+      "16.4",
+      "42.7",
+      "6.5",
+      "3.6",
+      "19.9",
+      "58.6",
+      "56.8",
+      "60.3"
+    ],
+    [
+      "New Hampshire",
+      "29.7",
+      "19.6",
+      "51.5",
+      "8.1",
+      "3.9",
+      "23.0",
+      "53.7",
+      "42.7",
+      "68.1"
+    ],
+    [
+      "New Jersey",
+      "30.0",
+      "22.2",
+      "48.1",
+      "7.6",
+      "4.1",
+      "21.4",
+      "58.3",
+      "53.8",
+      "63.9"
+    ],
+    [
+      "New Mexico",
+      "25.2",
+      "14.6",
+      "46.8",
+      "7.1",
+      "3.0",
+      "21.3",
+      "64.8",
+      "57.6",
+      "70.1"
+    ],
+    [
+      "New York",
+      "25.1",
+      "16.7",
+      "44.7",
+      "6.1",
+      "3.3",
+      "18.0",
+      "57.8",
+      "52.7",
+      "63.3"
+    ],
+    [
+      "North Carolina",
+      "32.8",
+      "22.9",
+      "55.5",
+      "7.2",
+      "3.7",
+      "23.3",
+      "70.7",
+      "68.7",
+      "72.9"
+    ],
+    [
+      "North Dakota",
+      "49.8",
+      "39.9",
+      "63.6",
+      "16.9",
+      "7.8",
+      "40.6",
+      "76.3",
+      "76.8",
+      "74.2"
+    ],
+    [
+      "Ohio",
+      "31.2",
+      "22.2",
+      "53.5",
+      "7.9",
+      "3.9",
+      "24.9",
+      "73.7",
+      "73.2",
+      "74.7"
+    ],
+    [
+      "Oklahoma",
+      "37.4",
+      "26.1",
+      "56.9",
+      "9.0",
+      "4.5",
+      "25.5",
+      "70.5",
+      "69.1",
+      "71.6"
+    ],
+    [
+      "Oregon",
+      "21.4",
+      "13.6",
+      "44.1",
+      "5.6",
+      "3.4",
+      "16.5",
+      "56.8",
+      "47.6",
+      "68.1"
+    ],
+    [
+      "Pennsylvania",
+      "33.5",
+      "24.9",
+      "55.9",
+      "7.9",
+      "3.9",
+      "25.4",
+      "74.9",
+      "73.2",
+      "77.1"
+    ],
+    [
+      "Rhode Island",
+      "24.0",
+      "17.0",
+      "43.7",
+      "6.7",
+      "3.3",
+      "20.5",
+      "54.9",
+      "48.1",
+      "65.9"
+    ],
+    [
+      "South Carolina",
+      "37.4",
+      "29.4",
+      "56.5",
+      "9.9",
+      "5.2",
+      "28.4",
+      "69.9",
+      "68.6",
+      "71.9"
+    ],
+    [
+      "South Dakota",
+      "48.6",
+      "38.8",
+      "63.8",
+      "17.2",
+      "8.6",
+      "36.9",
+      "76.3",
+      "76.0",
+      "77.0"
+    ],
+    [
+      "Tennessee",
+      "33.2",
+      "24.4",
+      "54.6",
+      "8.4",
+      "4.3",
+      "26.0",
+      "70.2",
+      "68.9",
+      "72.3"
+    ],
+    [
+      "Texas",
+      "31.2",
+      "21.5",
+      "53.2",
+      "6.9",
+      "3.9",
+      "20.5",
+      "68.4",
+      "65.5",
+      "71.2"
+    ],
+    [
+      "Utah",
+      "32.8",
+      "24.4",
+      "53.2",
+      "5.5",
+      "2.9",
+      "18.9",
+      "68.1",
+      "65.2",
+      "71.1"
+    ],
+    [
+      "Vermont",
+      "23.4",
+      "14.3",
+      "43.3",
+      "8.1",
+      "3.2",
+      "22.1",
+      "41.3",
+      "29.0",
+      "62.0"
+    ],
+    [
+      "Virginia",
+      "30.7",
+      "22.3",
+      "52.9",
+      "6.3",
+      "3.4",
+      "21.6",
+      "69.0",
+      "68.2",
+      "70.5"
+    ],
+    [
+      "Washington",
+      "21.7",
+      "13.9",
+      "45.5",
+      "5.3",
+      "2.8",
+      "18.0",
+      "58.8",
+      "51.3",
+      "68.4"
+    ],
+    [
+      "West Virginia",
+      "45.6",
+      "31.6",
+      "62.9",
+      "14.7",
+      "6.1",
+      "34.7",
+      "74.8",
+      "72.1",
+      "76.4"
+    ],
+    [
+      "Wisconsin",
+      "32.7",
+      "22.0",
+      "59.4",
+      "8.2",
+      "3.9",
+      "28.9",
+      "75.8",
+      "73.5",
+      "78.5"
+    ],
+    [
+      "Wyoming",
+      "42.7",
+      "33.7",
+      "57.8",
+      "13.6",
+      "7.7",
+      "30.5",
+      "69.9",
+      "68.7",
+      "70.1"
+    ]
+  ]
+};
