@@ -1,0 +1,3 @@
+"Appendix Table 1a. Percent of All Households Same-sex Couple Households, by State: Census 2000, 2010 Census and the American Community Survey 2010"
+
+"Area", "Census 2000", "2010 Census", "ACS 2010 Estimate", "ACS2010 Std. Err."
